@@ -13,6 +13,7 @@ const Modal = (props) => {
             document.body.style.overflow = bodyOverflow.current;
         }
     }, [visible]);
+    
 
     function handleClick(event) {
         if (event.target === event.currentTarget) {
