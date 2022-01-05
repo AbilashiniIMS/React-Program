@@ -1,0 +1,15 @@
+.footer-part {
+  /* width: 100%; */
+  height: auto;
+  background-color: rgba(1, 50, 141, 0.945);
+  text-align: right;
+ 
+  padding: 18.5px;
+}
+.footer-part a{
+  font-size: 12px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background: -webkit-linear-gradient(#eee 50%, rgb(32, 216, 78));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
